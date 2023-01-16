@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b33f8ca.css",
+    "main.js": "/static/js/main.14868f57.js",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.8a9966c8fc2af113ceae.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.021b16667302c4fe49c2.jpg",
+    "static/media/pic3.png": "/static/media/pic3.b6ae7764528cbf6f5bd9.png",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.5f04f82ad2b99275cbc5.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.8494ff059bb5e1a03dc2.jpg",
+    "static/media/portfolio5.jpg": "/static/media/portfolio5.c90b612f1559dbcd4924.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.b8e98e0d1e8a4b1fc208.jpg",
+    "static/media/Jagriti_Kumari_Resume.pdf": "/static/media/Jagriti_Kumari_Resume.995a414d37800e35f1bb.pdf",
+    "static/media/reading-book.png": "/static/media/reading-book.eb1446bb57d43d7b72c2.png",
+    "static/media/woman.png": "/static/media/woman.28056104da024a37f2ee.png",
+    "index.html": "/index.html",
+    "main.6b33f8ca.css.map": "/static/css/main.6b33f8ca.css.map",
+    "main.14868f57.js.map": "/static/js/main.14868f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b33f8ca.css",
+    "static/js/main.14868f57.js"
+  ]
+}
