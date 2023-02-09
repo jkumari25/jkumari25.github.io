@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e1f551d5.css",
-    "main.js": "/static/js/main.c9cdc4b5.js",
+    "main.js": "/static/js/main.03db47f0.js",
     "static/media/pic3.png": "/static/media/pic3.b6ae7764528cbf6f5bd9.png",
     "static/media/tripoto.png": "/static/media/tripoto.563657abbd27ee3cb812.png",
     "static/media/Gearbest.png": "/static/media/Gearbest.33c42320192b3a518e20.png",
@@ -12,10 +12,10 @@
     "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.15fd787635c91d49cd06.png",
     "index.html": "/index.html",
     "main.e1f551d5.css.map": "/static/css/main.e1f551d5.css.map",
-    "main.c9cdc4b5.js.map": "/static/js/main.c9cdc4b5.js.map"
+    "main.03db47f0.js.map": "/static/js/main.03db47f0.js.map"
   },
   "entrypoints": [
     "static/css/main.e1f551d5.css",
-    "static/js/main.c9cdc4b5.js"
+    "static/js/main.03db47f0.js"
   ]
 }
