@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.28e9d3d2.css",
-    "main.js": "/static/js/main.15dd74d8.js",
+    "main.js": "/static/js/main.aab17ad6.js",
     "static/media/pic3.png": "/static/media/pic3.dcb485b9b73ec33fec9f.png",
     "static/media/tripoto.png": "/static/media/tripoto.563657abbd27ee3cb812.png",
     "static/media/Gearbest.png": "/static/media/Gearbest.33c42320192b3a518e20.png",
     "static/media/Lenskart.png": "/static/media/Lenskart.e0c79e675127866939ea.png",
-    "static/media/fw19_1016_Jagriti-Kumari-Resume.pdf": "/static/media/fw19_1016_Jagriti-Kumari-Resume.a145b902d6989fbe96d9.pdf",
+    "static/media/Jagriti_Kumari_Resume.pdf": "/static/media/Jagriti_Kumari_Resume.7d2b9f69c8a37702a5fd.pdf",
     "static/media/Quikr.png": "/static/media/Quikr.6eba6cefc7d979db8d27.png",
     "static/media/reading-book.png": "/static/media/reading-book.eb1446bb57d43d7b72c2.png",
     "static/media/woman.png": "/static/media/woman.28056104da024a37f2ee.png",
     "index.html": "/index.html",
     "main.28e9d3d2.css.map": "/static/css/main.28e9d3d2.css.map",
-    "main.15dd74d8.js.map": "/static/js/main.15dd74d8.js.map"
+    "main.aab17ad6.js.map": "/static/js/main.aab17ad6.js.map"
   },
   "entrypoints": [
     "static/css/main.28e9d3d2.css",
-    "static/js/main.15dd74d8.js"
+    "static/js/main.aab17ad6.js"
   ]
 }
